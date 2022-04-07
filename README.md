@@ -109,6 +109,15 @@ Looking for funding to work on any of the above? Here are some funding opportuni
 * Apply [here](https://forms.gle/Q6UwKvCkvqxdngrQ8) 
 * More info [here](https://www.arweave.org/get-involved/grants-funding) 
 
+### 🟢 Permanent Ventures Grant Applications [ACTIVE]
+* Funding Available:
+  * $20,000 USDC
+* Best for:
+  * Open source decentralized infrastructure too early to raise a venture round
+* When: Ongoing
+* Apply [here](https://arljgyr5wmbomae26mygta6ha4o42zzr3feyztok4gnu6pmy.arweave.net/BFaTYj2zAuYAmvMwaYPH-Bx3N-ZzHZSYzNyuGbTz2Y0)
+* More info: Reach out to the team!
+
 -------
 
 ## Grant themes of interest to the Arweave Core Team
